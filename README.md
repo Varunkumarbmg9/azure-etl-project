@@ -4,7 +4,12 @@ This project demonstrates an end-to-end ETL pipeline built on Microsoft Azure. I
 
 ---
 
-## 📁 Project Structure
+## 📊 Architecture Diagram
+
+This diagram shows the flow of data from ingestion to transformation and querying.
+
+![Azure ETL Architecture](./ETL-Project.png)
+
 
 
 ---
